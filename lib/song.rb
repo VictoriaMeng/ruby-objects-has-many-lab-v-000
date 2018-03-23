@@ -5,6 +5,4 @@ class Song
     @title = title
   end
 
-  def artist_name
-  end
 end
